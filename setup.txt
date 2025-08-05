@@ -1,0 +1,12 @@
+Requirements:
+    python 3.12.8
+    uv 0.7.6
+
+Environment Setup:
+    uv venv
+    source .venv/Scripts/activate
+
+Start Server:
+    uv run server.py
+    mcp dev server.py
+
